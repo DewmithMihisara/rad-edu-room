@@ -1,5 +1,5 @@
-import { Component } from "react";
-import icon from "../../../images/Cannabis_leaf.svg.png";
+import {Component} from "react";
+import icon from '../../../images/icon.png';
 
 
 export class Footer extends Component {
